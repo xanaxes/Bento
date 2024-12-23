@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Gmail',
-			icon: 'gmail',
-			link: 'https://gmail.com',
+			name: 'Amazon',
+			icon: 'amazon',
+			link: 'https://amazon.ca/',
 		},
 		{
 			id: '4',
@@ -135,24 +135,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'glasses',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'r/piracy',
+					link: 'https://www.reddit.com/r/Piracy/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'r/wallpapers',
+					link: 'https://www.reddit.com/r/wallpapers/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'r/windows11',
+					link: 'https://www.reddit.com/r/Windows11/',
 				},
 			],
 		},
@@ -161,20 +157,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Facebook',
+					link: 'https://www.facebook.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Twitter',
+					link: 'https://www.twitter.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Gmail',
+					link: 'https://www.gmail.com',
 				},
 			],
 		},
