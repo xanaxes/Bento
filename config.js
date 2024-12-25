@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Amazon',
-			icon: 'amazon',
+			icon: 'shopping-cart',
 			link: 'https://amazon.ca/',
 		},
 		{
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'message-circle-more',
 			link: 'https://reddit.com',
 		},
 		{
@@ -139,16 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'r/piracy',
-					link: 'https://www.reddit.com/r/Piracy/',
+					name: 'alternativeto',
+					link: 'https://alternativeto.net/',
 				},
 				{
-					name: 'r/wallpapers',
-					link: 'https://www.reddit.com/r/wallpapers/',
+					name: 'Cineby',
+					link: 'https://www.cineby.ru/',
 				},
 				{
 					name: 'r/windows11',
 					link: 'https://www.reddit.com/r/Windows11/',
+				},
+				{
+					name: 'Deviant Art',
+					link: 'https://www.deviantart.com/',
 				},
 			],
 		},
@@ -165,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://www.twitter.com',
+					name: 'X',
+					link: 'https://www.x.com',
 				},
 				{
 					name: 'Gmail',
